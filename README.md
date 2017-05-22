@@ -4,6 +4,10 @@ Baidu push message JDK
 # change
 - support http proxy
 
+# Gradle
+
+`compile 'com.github.qiuxiaoj:baidu-push-api:3.0.1'`
+
 # usage
 
 ```java

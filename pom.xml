@@ -7,7 +7,7 @@
 	<version>3.0.1</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Baidu Push Java Api(Support Proxy)</description>
-	<url>https://github.com/qiuxiaoj/bccs-api</url>
+	<url>https://github.com/qiuxiaoj/baidu-push-api</url>
 
 	<properties>
 		<maven.compiler.target>1.7</maven.compiler.target>
@@ -31,9 +31,9 @@
 	</dependencies>
 
 	<scm>
-		<connection>scm:git:https://github.com/qiuxiaoj/bccs-api.git</connection>
-		<developerConnection>scm:git:https://github.com/qiuxiaoj/bccs-api.git</developerConnection>
-		<url>https://github.com/qiuxiaoj/bccs-api</url>
+		<connection>scm:git:https://github.com/qiuxiaoj/baidu-push-api.git</connection>
+		<developerConnection>scm:git:https://github.com/qiuxiaoj/baidu-push-api.git</developerConnection>
+		<url>https://github.com/qiuxiaoj/baidu-push-api</url>
 	</scm>
 
 	<distributionManagement>
@@ -65,7 +65,7 @@
 			<name>qiuxiaoj</name>
 			<email>qiuxiaoj@gmail.com</email>
 			<organization>Github</organization>
-			<organizationUrl>https://github.com/qiuxiaoj/ueditor</organizationUrl>
+			<organizationUrl>https://github.com/qiuxiaoj/baidu-push-api</organizationUrl>
 		</developer>
 	</developers>
 
